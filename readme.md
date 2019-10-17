@@ -1,3 +1,5 @@
+[![KAVGyn.png](https://s2.ax1x.com/2019/10/17/KAVGyn.png)](https://imgchr.com/i/KAVGyn)
+
 编写算法思路：由简单到复杂，先局部后整体，先粗糙后精细。
 
 
